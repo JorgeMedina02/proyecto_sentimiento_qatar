@@ -1,11 +1,11 @@
-Usuario,Menciones_Recibidas,Influencia (PageRank),Puente (Betweenness),Cercanía (Closeness)
-FIFAWorldCup,411,0.00818,0.0,0.13951
-JioCinema,162,0.00358,0.0,0.05374
-FIFAcom,157,0.0029,0.0,0.05374
-elonmusk,124,0.00277,0.0,0.03927
-BBCSport,130,0.00256,0.0,0.04478
-BTS_twt,104,0.00245,0.0,0.03445
-GaryLineker,102,0.00177,0.0,0.03514
-MEXC_Global,55,0.00146,0.0,0.01895
-YouTube,50,0.00136,0.0,0.01722
-NAlahaji,41,0.00117,0.0,0.0
+Usuario,Menciones_Recibidas,PageRank,Betweenness
+fifaworldcup,414,0.008419,0.0
+jiocinema,156,0.003585,0.0
+fifacom,159,0.002981,0.0
+elonmusk,115,0.00282,0.0
+bbcsport,132,0.002611,0.0
+bts_twt,101,0.002484,0.0
+garylineker,103,0.001798,0.0
+mexc_global,55,0.001465,0.0
+youtube,50,0.001361,0.0
+nalahaji,41,0.001172,0.0

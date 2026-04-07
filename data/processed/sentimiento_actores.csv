@@ -1,7 +1,7 @@
 Actor_Tema,Sentimiento,Porcentaje,Volumen_Total
-Fifa,neutral,40.19,4810
-Fifa,positive,39.54,4810
-Fifa,negative,20.27,4810
+FIFA,neutral,42.38,2159
+FIFA,positive,38.54,2159
+FIFA,negative,19.08,2159
 Qatar,neutral,42.11,9523
 Qatar,positive,30.91,9523
 Qatar,negative,26.98,9523
@@ -11,6 +11,11 @@ Messi,negative,3.67,327
 Ronaldo,positive,51.21,207
 Ronaldo,neutral,44.44,207
 Ronaldo,negative,4.35,207
-Var,negative,50.79,949
-Var,neutral,39.83,949
-Var,positive,9.38,949
+VAR,negative,50.79,949
+VAR,neutral,39.83,949
+VAR,positive,9.38,949
+Ecuador,neutral,48.4,2688
+Ecuador,positive,29.28,2688
+Ecuador,negative,22.32,2688
+Neymar,positive,56.34,71
+Neymar,neutral,43.66,71
