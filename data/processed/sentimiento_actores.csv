@@ -1,0 +1,22 @@
+Actor_Tema,Sentimiento,Porcentaje,Volumen_Total
+Fifa,neutral,40.19,4810
+Fifa,positive,39.54,4810
+Fifa,negative,20.27,4810
+Qatar,neutral,42.11,9523
+Qatar,positive,30.91,9523
+Qatar,negative,26.98,9523
+Messi,positive,57.49,327
+Messi,neutral,38.84,327
+Messi,negative,3.67,327
+Ronaldo,positive,51.21,207
+Ronaldo,neutral,44.44,207
+Ronaldo,negative,4.35,207
+Var,negative,50.79,949
+Var,neutral,39.83,949
+Var,positive,9.38,949
+Biden,neutral,42.86,7
+Biden,negative,42.86,7
+Biden,positive,14.29,7
+Human rights,negative,69.43,157
+Human rights,neutral,20.38,157
+Human rights,positive,10.19,157
