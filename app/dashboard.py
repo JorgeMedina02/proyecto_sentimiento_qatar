@@ -168,4 +168,4 @@ def update_table(selected_sentiment):
 
 if __name__ == '__main__':
     print("\nServidor Dashboard cargando en http://127.0.0.1:8055/")
-    app.run_server(debug=True, port=8055)
+    app.run(debug=True, port=8055)
