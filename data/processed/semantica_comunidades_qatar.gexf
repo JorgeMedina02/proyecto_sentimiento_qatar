@@ -1,0 +1,1313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-09">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="Categoria_Emocion" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="tamanio_visual" type="long" />
+    </attributes>
+    <nodes>
+      <node id="BBC" label="BBC">
+        <attvalues>
+          <attvalue for="0" value="Comunidad" />
+          <attvalue for="1" value="100" />
+        </attvalues>
+      </node>
+      <node id="Elon Musk" label="Elon Musk">
+        <attvalues>
+          <attvalue for="0" value="Comunidad" />
+          <attvalue for="1" value="100" />
+        </attvalues>
+      </node>
+      <node id="FIFA" label="FIFA">
+        <attvalues>
+          <attvalue for="0" value="Comunidad" />
+          <attvalue for="1" value="100" />
+        </attvalues>
+      </node>
+      <node id="Inglaterra" label="Inglaterra">
+        <attvalues>
+          <attvalue for="0" value="Comunidad" />
+          <attvalue for="1" value="100" />
+        </attvalues>
+      </node>
+      <node id="JioCinema" label="JioCinema">
+        <attvalues>
+          <attvalue for="0" value="Comunidad" />
+          <attvalue for="1" value="100" />
+        </attvalues>
+      </node>
+      <node id="the" label="the">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="and" label="and">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="for" label="for">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="this" label="this">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="that" label="that">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="you" label="you">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="ecuador" label="ecuador">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="fifa" label="fifa">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="qatarworldcup" label="qatarworldcup">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="opening" label="opening">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="with" label="with">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="are" label="are">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="will" label="will">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="all" label="all">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="they" label="they">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="not" label="not">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="was" label="was">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="ceremony" label="ceremony">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="what" label="what">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="first" label="first">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="have" label="have">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="can" label="can">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="your" label="your">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="from" label="from">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="just" label="just">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="but" label="but">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="here" label="here">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="offside" label="offside">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="who" label="who">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="has" label="has">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="how" label="how">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="var" label="var">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="let" label="let">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="about" label="about">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="win" label="win">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="their" label="their">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="like" label="like">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="off" label="off">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="worldcupqatar" label="worldcupqatar">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="time" label="time">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="get" label="get">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="england" label="england">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="one" label="one">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="out" label="out">
+        <attvalues>
+          <attvalue for="0" value="Palabra" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="BBC" target="the" id="0" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="and" id="1" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="for" id="2" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="this" id="3" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="that" id="4" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="you" id="5" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="ecuador" id="6" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="fifa" id="7" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="qatarworldcup" id="8" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="opening" id="9" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="with" id="10" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="are" id="11" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="will" id="12" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="all" id="13" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="they" id="14" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="not" id="15" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="was" id="16" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="ceremony" id="17" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="what" id="18" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="first" id="19" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="have" id="20" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="can" id="21" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="your" id="22" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="from" id="23" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="just" id="24" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="but" id="25" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="here" id="26" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="offside" id="27" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="who" id="28" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="has" id="29" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="how" id="30" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="var" id="31" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="let" id="32" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="about" id="33" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="win" id="34" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="their" id="35" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="like" id="36" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="off" id="37" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="worldcupqatar" id="38" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="BBC" target="time" id="39" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="the" id="40" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="and" id="41" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="for" id="42" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="this" id="43" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="that" id="44" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="you" id="45" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="ecuador" id="46" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="fifa" id="47" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="qatarworldcup" id="48" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="opening" id="49" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="with" id="50" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="are" id="51" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="all" id="52" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="will" id="53" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="not" id="54" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="have" id="55" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="was" id="56" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="ceremony" id="57" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="first" id="58" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="they" id="59" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="what" id="60" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="can" id="61" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="your" id="62" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="worldcupqatar" id="63" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="here" id="64" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="offside" id="65" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="who" id="66" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="but" id="67" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="from" id="68" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="has" id="69" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="var" id="70" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="let" id="71" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="just" id="72" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="how" id="73" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="time" id="74" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="win" id="75" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="about" id="76" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="get" id="77" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="england" id="78" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Elon Musk" target="one" id="79" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="the" id="80" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="and" id="81" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="for" id="82" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="this" id="83" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="that" id="84" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="you" id="85" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="ecuador" id="86" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="fifa" id="87" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="opening" id="88" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="are" id="89" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="qatarworldcup" id="90" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="with" id="91" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="all" id="92" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="will" id="93" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="ceremony" id="94" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="not" id="95" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="have" id="96" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="they" id="97" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="was" id="98" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="what" id="99" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="first" id="100" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="can" id="101" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="your" id="102" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="offside" id="103" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="who" id="104" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="but" id="105" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="how" id="106" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="here" id="107" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="about" id="108" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="from" id="109" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="get" id="110" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="has" id="111" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="var" id="112" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="off" id="113" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="worldcupqatar" id="114" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="one" id="115" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="time" id="116" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="just" id="117" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="like" id="118" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="FIFA" target="their" id="119" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="the" id="120" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="and" id="121" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="for" id="122" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="this" id="123" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="that" id="124" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="you" id="125" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="fifa" id="126" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="ecuador" id="127" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="qatarworldcup" id="128" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="opening" id="129" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="are" id="130" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="with" id="131" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="was" id="132" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="all" id="133" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="will" id="134" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="not" id="135" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="ceremony" id="136" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="have" id="137" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="what" id="138" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="your" id="139" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="they" id="140" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="first" id="141" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="can" id="142" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="worldcupqatar" id="143" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="but" id="144" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="here" id="145" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="has" id="146" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="from" id="147" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="how" id="148" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="offside" id="149" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="who" id="150" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="out" id="151" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="var" id="152" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="just" id="153" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="their" id="154" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="time" id="155" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="about" id="156" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="let" id="157" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="get" id="158" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="Inglaterra" target="like" id="159" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="the" id="160" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="and" id="161" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="for" id="162" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="this" id="163" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="that" id="164" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="you" id="165" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="ecuador" id="166" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="qatarworldcup" id="167" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="fifa" id="168" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="opening" id="169" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="are" id="170" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="with" id="171" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="will" id="172" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="not" id="173" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="all" id="174" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="ceremony" id="175" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="was" id="176" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="have" id="177" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="they" id="178" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="first" id="179" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="can" id="180" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="what" id="181" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="your" id="182" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="here" id="183" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="how" id="184" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="but" id="185" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="offside" id="186" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="from" id="187" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="has" id="188" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="worldcupqatar" id="189" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="who" id="190" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="var" id="191" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="their" id="192" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="off" id="193" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="about" id="194" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="one" id="195" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Neutro" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="let" id="196" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="time" id="197" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Positivo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="just" id="198" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+      <edge source="JioCinema" target="like" id="199" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Negativo" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
